@@ -12,10 +12,10 @@ db.getCollection('estudante').insertOne({
     cpf: "038.294.458-40",
     telefone: "67996561345"
 });
--> PROFESSOR
-nome
-idade
-email
-endereco
 
--> Insira pelo menos 1 professor no banco
+//**-> PROFESSOR
+//**nome
+//**idade
+//**email
+//**endereco
+//**-> Insira pelo menos 1 professor no banco
